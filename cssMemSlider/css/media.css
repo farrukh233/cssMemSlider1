@@ -1,7 +1,7 @@
 @media (max-width: 900px) {
   .wrapper {
     width: 50vw;
-    height: 61.5vw;
+    height: 61.4vw;
   }
   .bottom-conteiner {
     flex-direction: column;
