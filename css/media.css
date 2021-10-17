@@ -1,0 +1,17 @@
+@media (max-width: 900px) {
+  .wrapper {
+    width: 50vw;
+    height: 61.5vw;
+  }
+  .bottom-conteiner {
+    flex-direction: column;
+  }
+  .slider-text {
+    order: 2;
+    margin-top: 5%;
+  }
+  .controls {
+    margin: 0 auto;
+    order: 1;
+  }
+}
