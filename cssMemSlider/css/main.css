@@ -20,8 +20,8 @@ h1 {
 .wrapper {
   display: flex;
   flex-direction: column;
-  margin: 10% auto;
-  width: 39vw;
+  margin: 0 auto;
+  width: 40vw;
   height: 44vw;
 }
 
